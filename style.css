@@ -1,0 +1,39 @@
+.bannerHeading
+{font-size: 40px;
+text-align: center;
+font-family: "Comic Sans MS";}
+
+#banner1
+{border-radius: 50%;
+    width: 500px;}
+
+#banner1:hover
+{border-width: 5px;
+border-style: outset;
+border-color:blueviolet;}
+
+table, th, tr, td{
+    border-style: inset;
+    border-width: 4px;
+    background-color:#c98aeb;
+    border-color: rgb(98, 11, 142);
+}
+
+table, th, tr, td:hover {
+    background-color: rgb(98, 11, 142);;
+    color: white;
+}
+
+th{
+    background-color: #c98aeb;
+}
+
+th:hover{
+    background-color: rgb(98, 11, 142);
+    color: white;
+}
+
+th, tr, td{
+    padding: 10px;
+    color: rgb(50, 7, 72);
+    }
